@@ -14,6 +14,6 @@
  <img align="center"alt="Jira" src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white />
  <img align="center"alt="GIT" src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white />
  <img align="center"alt="GitHub Actions" src=https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white />
- <img align="center"alt="GitLav" src=https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) />
+ <img align="center"alt="GitLab" src=https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) />
  <img align="center"alt="Cypress" src=https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) />
 </div>
