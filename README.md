@@ -9,7 +9,6 @@
 
 <div style="display: inline_block"><br/>
 <img align="center"alt="Python" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
-<img align="center"alt="IntelliJ" src=https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white />
 <img align="center"alt="Selenium" src=https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) />
 <img align="center"alt="Testing-library" src=https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white />
 <img align="center"alt="Jira" src=https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white />
