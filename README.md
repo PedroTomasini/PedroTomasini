@@ -4,7 +4,7 @@
 ⚠️Minha conta tinha sido hackeada e todo meu repositório foi apagado, recentemente eu consegui recuperala.⚠️
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroTomasini&show_icons=true&theme=transparent)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTomasini&layout=compact&theme=transparent)
 ## Tecnologia do meu dia
 
 <div style="display: inline_block"><br/>
